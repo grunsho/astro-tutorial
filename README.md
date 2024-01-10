@@ -4,7 +4,7 @@
 npm create astro@latest -- --template minimal
 ```
 
-![View finished tutorial](https://master--dreamy-cranachan-49927b.netlify.app/)
+[View finished tutorial](https://master--dreamy-cranachan-49927b.netlify.app/)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
